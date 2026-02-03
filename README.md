@@ -19,7 +19,10 @@ Main features:
 
 -Database export/import in .json format for stored devices
 
--Enjoy using it as much as we enjoyed creating it!
+<p align="center">
+  I ❤️ from Hungary
+</p>
+
 
 The application is in English! (The YoRadio web server interface is also in English, so I didn't see the point in adding language translation options)
 
