@@ -1,6 +1,6 @@
 <p align="right">
   <img src="https://img.shields.io/github/downloads/gidano/YoRadio-Controller/total" alt="Downloads">
-  <img src="https://img.shields.io/badge/Android-7%20→%2015-green?logo=android&logoColor=white" alt="Android">
+  <img src="https://img.shields.io/badge/Android-7%20→%2016-green?logo=android&logoColor=white" alt="Android">
 </p>
 
 # 🎧 YoRadio‑Controller
