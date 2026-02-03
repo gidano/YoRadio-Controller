@@ -1,4 +1,4 @@
-<p align="center">
+<p align="right">
   <img src="https://img.shields.io/github/downloads/gidano/YoRadio-Controller/total" alt="Downloads">
 </p>
 # YoRadio-Controller
