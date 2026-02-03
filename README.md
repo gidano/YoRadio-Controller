@@ -22,3 +22,7 @@ Főbb funkciói:
 -használd olyan örömmel, amilyennel készült!
 
 Az alkalmazás angol nyelvű! (A YoRadio webszerver kezelőfelülete is angol nyelvű, ezért nem láttam értelmét a nyelvi fordítási lehetőségeknek)
+
+<p align="center">
+  <img src="YoRadio.Controller.jpg" width="400">
+</p>
