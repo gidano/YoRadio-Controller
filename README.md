@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://img.shields.io/github/downloads/gidano/YoRadio-Controller/total" alt="Downloads">
 </p>
-
 # YoRadio-Controller
 For accessing the ëRadio web radio web server.
 
