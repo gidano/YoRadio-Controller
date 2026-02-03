@@ -1,6 +1,8 @@
 # YoRadio-Controller
 A ëRadio webrádió webszerver eléréséhez.
 
+Android SDK 24-36 (Android 7 Nougat-tól használható)
+
 Főbb funkciói:
 
 -világos-sötét téma
