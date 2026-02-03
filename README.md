@@ -25,6 +25,8 @@ Main features:
 
 
 The application is in English! (The YoRadio web server interface is also in English, so I didn't see the point in adding language translation options)
+![GitHub release downloads](https://img.shields.io/github/downloads/gidano/YoRadio-Controller/total)
+
 
 <p align="center">
   <img src="YoRadio.Controller.jpg" width="400">
