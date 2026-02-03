@@ -1,11 +1,22 @@
 <p align="right">
   <img src="https://img.shields.io/github/downloads/gidano/YoRadio-Controller/total" alt="Downloads">
+  <img src="https://img.shields.io/badge/Android-7%20→%2014-green?logo=android&logoColor=white" alt="Android">
 </p>
 
 # 🎧 YoRadio‑Controller
 
 Android application to access the **ëRadio web radio server**.  
 Supported Android versions: **SDK 24–36** (Android 7 Nougat and above).
+
+---
+
+## 📥 How to install
+
+1. Download the latest **YoRadio‑Controller.apk** from the  
+   👉 **Releases** section of this repository.
+2. Copy the APK to your Android device (or download it directly on the phone).
+3. Open the file and allow installation from unknown sources if prompted.
+4. Launch the app and enter the IP address of your YoRadio server.
 
 ---
 
