@@ -24,8 +24,7 @@ Supported Android versions: **SDK 24–36** (Android 7 Nougat and above).
 
 - 🌗 **Light / dark theme**
 - 🌐 **Stores up to 10 IP addresses**, most recently used moves to the top
-- ✏️ **Long‑press to rename**, swipe to delete  
-  (with confirmation and 3‑second undo)
+- ✏️ **Long‑press to rename**, swipe to delete  (with confirmation and 3‑second undo)
 - 📌 **Favorites**: pin items to the top of the list
 - 🔄 **Auto‑rename** when connecting to a new, unknown IP
 - 🟢 **Status indicator dot** in the top‑right corner of the name field
@@ -53,8 +52,7 @@ Supported Android versions: **SDK 24–36** (Android 7 Nougat and above).
 
 - 🌗 **Világos–sötét téma**
 - 🌐 **IP‑cím eltárolás** (10 db), a legutóbb használt előre sorolva
-- ✏️ **Hosszan nyomva átnevezhető**, oldalra húzva törölhető  
-  (megerősítéssel, 3 mp‑ig visszavonható)
+- ✏️ **Hosszan nyomva átnevezhető**, oldalra húzva törölhető (megerősítéssel, 3 mp‑ig visszavonható)
 - 📌 **Kitűzhető elemek** a lista elejére (Kedvencek)
 - 🔄 **Auto‑átnevezés** ismeretlen IP csatlakozása után
 - 🟢 **Indikátor pötty** a névmező jobb felső sarkában
